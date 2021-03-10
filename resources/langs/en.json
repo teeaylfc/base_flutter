@@ -1,0 +1,23 @@
+{
+  "title": "Hello",
+  "languageSettingPage": {
+    "pageTitle": "Language Settings",
+    "messageSuccess": "Language changed successfully",
+    "buttonTitle": "Update"
+  },
+  "loginPage": {
+    "phone": "Phone number",
+    "pass": "Password",
+    "login": "Sign in",
+    "forgetPass": "Forgot password?",
+    "touchId": "Sign in with Touch ID",
+    "notMember": "Not a member yet?",
+    "createAccount": "Create an account",
+    "phoneEmpty": "User id can't be empty",
+    "passEmpty": "Password can't be empty",
+    "please": "Please sign in",
+    "keep": "Remember me",
+    "id": "User ID",
+    "matchingPass": "The password does not match"
+  }
+}

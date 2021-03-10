@@ -1,0 +1,23 @@
+{
+  "title": "Xin chào",
+  "languageSettingPage": {
+    "pageTitle": "Cài đặt ngôn ngữ",
+    "messageSuccess": "Đổi ngôn ngữ thành công",
+    "buttonTitle": "Thay đổi"
+  },
+  "loginPage": {
+    "phone": "Số điện thoại",
+    "pass": "Mật khẩu",
+    "login": "Đăng nhập",
+    "forgetPass": "Quên mật khẩu",
+    "touchId": "Đăng nhập với TouchID",
+    "notMember": "Bạn chưa phải là thành viên?",
+    "createAccount": "Đăng kí ngay",
+    "phoneEmpty": "Mã người dùng không được để trống",
+    "passEmpty": "Mật khẩu không được để trống",
+    "please": "Vui lòng đăng nhập",
+    "keep": "Ghi nhớ tài khoản",
+    "id": "Mã người dùng",
+    "matchingPass": "Mật khẩu không trùng khớp"
+  }
+}
